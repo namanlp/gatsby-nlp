@@ -1,6 +1,6 @@
 {
   "name": "gatsby-nlp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My learning gatsby site",
   "main": "gatsby-nlp/gatsby-config.js",
   "scripts": {
